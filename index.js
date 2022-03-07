@@ -45,4 +45,4 @@ client.on("messageCreate", async message => {
 client.login(process.env.token) //token should be put in the lock/client secrets button
 
 
-//Bot coded by 365 ɢᴀᴍɪɴɢ ɴ ᴍᴏʀᴇ_2.0#0002 DONOT share without credits
+//Bot coded by Kyc ( Khoa ) DONOT share without credits
